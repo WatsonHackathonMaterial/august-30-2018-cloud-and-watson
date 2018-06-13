@@ -1,11 +1,11 @@
 # Cloud and Watson Workshop 
-Agenda and links for two Node Red Watson and IBM Cloud tutorials 
+Agenda and links for two Node Red Watson and IBM Cloud tutorials. 
 
 ## Purpose of Lab
 
-* Have a basic understanding of IBM Cloud and how to get started.
+* Have a basic understanding of IBM Cloud and how to get started
 * The ability to launch and use the catalog of services
-* Deploy a simple Node application with a Watson service 
+* Deploy a simple Node application with a Watson service
 
 
 ## Agenda
@@ -21,8 +21,6 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials
   * 4. Natural Language Understanding Tutorial 2: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf 
   * Extra instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
   
-  
-
 ## IBM Call for Code 2018 
 
 * https://developer.ibm.com/callforcode/
