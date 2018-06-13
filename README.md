@@ -1,7 +1,14 @@
 # Cloud and Watson Workshop 
 Agenda and links for two Node Red Watson and IBM Cloud tutorials 
 
-## Hands-on Labs
+## Purpose of Lab
+
+* Have a basic understanding of IBM Cloud and how to get started.
+* The ability to launch and use the catalog of services
+* Deploy a simple Node application with a Watson service 
+
+
+## Agenda
 
 * 9:30 a.m. - 10:15 a.m.
   * 1. Intro - Helen Lam and Mofizur Rahman
@@ -13,6 +20,8 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials
   * 3. Complete  Watson Visual Recognition Tutorial 1: https://github.com/djccarew/node-red-labs/tree/master/basic_examples/visual_recognition
   * 4. Natural Language Understanding Tutorial 2: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf 
   * Extra instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
+  
+  
 
 ## IBM Call for Code 2018 
 
