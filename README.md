@@ -17,7 +17,7 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 * 10:15 a.m. - 12:30 p.m.
   * 1. Sign up for Bluemix here: https://ibm.biz/BdZkyE
   * 2. Node Red Set Up (Pre-tutorial): https://medium.com/@helenflam/setting-up-node-red-7bd398e2ffde
-  * 3. Complete  Watson Visual Recognition Tutorial 1: https://github.com/djccarew/node-red-labs/tree/master/basic_examples/visual_recognition
+  * 3. Complete  Watson Visual Recognition Tutorial 1: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
   * 4. Natural Language Understanding Tutorial 2: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf 
   * Extra instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
   
