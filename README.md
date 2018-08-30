@@ -10,12 +10,12 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 
 ## Agenda
 
-* 9:30 a.m. - 10:15 a.m.
-  * 1. Intro - Helen Lam and Mofizur Rahman
-  * 2. Presentation on IBM Cloud 
+* 10:15 a.m. - 10:35 a.m.
+  * 1. Intro - Helen Lam, Saar Sagir, and Anthony Amanse
+  * 2. Walk through IBM Cloud 
 
-* 10:15 a.m. - 12:30 p.m.
-  * 1. Sign up for Bluemix here: https://ibm.biz/BdZkyE
+* 10:35 a.m. - 12:30 p.m. 
+  * 1. Sign up for Bluemix here: https://ibm.biz/BdYrMZ
   * 2. Complete  Watson Visual Recognition Tutorial 1: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
   * 3. Natural Language Understanding Tutorial 2: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf 
   * Extra instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
