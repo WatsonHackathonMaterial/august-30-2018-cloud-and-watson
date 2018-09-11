@@ -19,7 +19,7 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
   
 * 5:30 p.m. - 7:30 p.m. 
   * 1. IBM Cloud Account set up - Sign up for IBM Cloud here: http://bluemix.net/ - 10 mins - Helen Lam, Spencer Krum
-   * (i) Go here for promo code: https://developer.ibm.com/ and USE CONFIRMATION CODE: cfcVirtual0914
+   * (i) Go here for promo code: https://developer.ibm.com/callforcode/featurecode  and USE CONFIRMATION CODE: cfcVirtual0914
    * (ii) APPLY CODE ON IBM CLOUD DASHBOARD Manage->Billing and Usage->Billing – Feature (Promo) Code entry
 
   * 2. Overview of Watson Cloud APIs - 30 mins - Helen Lam 
