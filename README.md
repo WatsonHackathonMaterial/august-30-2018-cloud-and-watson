@@ -15,7 +15,7 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
   * 1. Overview of Call for Code: https://developer.ibm.com/callforcode/ - Shari Chiara - 15 mins
   * 2. Overview of technical content available - Spencer Krum - 15 mins
   * 3. Overview of cloud technologies - Spencer Krum - 15 minutes
-  * 4. What is CAP - Christopher Luciano - 15 minutes
+  * 4. Overview of CAP: https://github.com/ibm/cap - Christopher Luciano - 15 minutes
   
 * 5:30 p.m. - 7:30 p.m. 
   * 1. IBM Cloud Account set up - Sign up for IBM Cloud here: http://bluemix.net/ - 10 mins - Helen Lam, Spencer Krum
