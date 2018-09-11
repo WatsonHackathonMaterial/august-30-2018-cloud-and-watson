@@ -63,3 +63,8 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 * Watson Blog Posts: https://medium.com/ibm-watson
 * Watson Github: https://github.com/watson-developer-cloud
 
+## Contact for follow up 
+
+* CAP contributions: find Chris on Twitter @cmluciano_
+* Find Helen on Twitter @HelennnSays
+* Find Spencer on Twitter @nibalizer
