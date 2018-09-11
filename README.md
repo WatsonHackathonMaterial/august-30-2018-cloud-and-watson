@@ -68,3 +68,4 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 * CAP contributions: find Chris on Twitter @cmluciano_
 * Find Helen on Twitter @HelennnSays
 * Find Spencer on Twitter @nibalizer
+* Find Shari at sharichiara@us.ibm.com 
