@@ -20,7 +20,7 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 * 5:30 p.m. - 7:30 p.m. 
   * 1. IBM Cloud Account set up - Sign up for IBM Cloud here: http://bluemix.net/ - 10 mins - Helen Lam, Spencer Krum
   * 2. Overview of Watson Cloud APIs - 30 mins - Helen Lam 
-  * Visual Recognition
+* Visual Recognition
   * Video: https://www.youtube.com/watch?v=n3_oGnXkMAE
   * Demo: https://visual-recognition-demo.mybluemix.net/
 * Watson Natural Language Understanding
