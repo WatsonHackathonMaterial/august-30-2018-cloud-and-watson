@@ -5,14 +5,14 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 
 * Have a basic understanding of IBM Cloud and how to get started
 * The ability to launch and use the catalog of services
-* Deploy a simple Node application with a Watson service
+* Deploy a Node application with a Watson service
 
 
 ## Agenda
 
 * 10:15 a.m. - 10:35 a.m.
-  * 1. Intro - Helen Lam, Saar Sagir, and Anthony Amanse
-  * 2. Walk through IBM Cloud 
+  * 1. Intro - Helen Lam
+  * 2. Walk through Watson Cloud Services. 
 
 * 10:35 a.m. - 12:30 p.m. 
   * 1. Sign up for Bluemix here: https://ibm.biz/BdYrMZ
@@ -29,4 +29,6 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 * Watson Cognitive Claims Accelerator (need to sign into IBM Cloud to see): https://developer.ibm.com/recipes/tutorials/category/cognitive-computing/
 * IBM Artificial Intelligence Code Patterns: https://developer.ibm.com/code/technologies/artificial-intelligence/
 * Watson Starter Kit: https://console.bluemix.net/developer/watson/starter-kits
+* Watson Blog Posts: https://medium.com/ibm-watson
+* Watson Github: https://github.com/watson-developer-cloud
 
