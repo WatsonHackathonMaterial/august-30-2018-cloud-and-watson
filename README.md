@@ -6,6 +6,7 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 * Have a basic understanding of IBM Cloud and how to get started
 * The ability to launch and use the catalog of services
 * Deploy a Node application with a Watson service
+* Learn more about Call for Code initiative
 
 
 ## Agenda
