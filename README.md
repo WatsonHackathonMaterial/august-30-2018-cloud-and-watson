@@ -17,7 +17,7 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
   * 3. Overview of cloud technologies - Spencer Krum - 15 minutes
   * 4. What is CAP - Christopher Luciano - 15 minutes
   
-* 5:30 p.m. - 6:30 p.m. 
+* 5:30 p.m. - 7:30 p.m. 
   * 1. IBM Cloud Account set up - Sign up for IBM Cloud here: http://bluemix.net/ - 10 mins - Helen Lam, Spencer Krum
   * 2. Overview of Watson Cloud APIs - 30 mins - Helen Lam 
   * Visual Recognition
@@ -26,16 +26,12 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 * Watson Natural Language Understanding
   * Video: https://www.youtube.com/watch?v=MB4ynlq52C4
   * Demo: https://natural-language-understanding-demo.mybluemix.net/ 
-* Watson Speech-to-Text/Text-to-Speech & Language Translation 
-  * Demo: https://text-to-speech-demo.mybluemix.net/
-  * Demo: https://speech-to-text-demo.mybluemix.net/
 * Watson Discovery
   * Video: https://youtu.be/9ks-cEG6KPs
   * Demo: https://discovery-news-demo.mybluemix.net/
 * Conversation 
   * Video: https://www.youtube.com/watch?v=A96nLYSMltA&list=PLZDyxLlNKRY-YOxeg5Hv0IMgQfmKp8ZN4
   * Demo: https://conversation-demo.mybluemix.net/
-  * Extra FYI Watson Discovery + Watson Conversation: https://www.youtube.com/watch?v=SasXUqBE-38
 * Tone Analyzer 
   * Video: https://www.youtube.com/watch?v=wUb--6FPBik
   * Demo: https://tone-analyzer-demo.mybluemix.net/
@@ -48,7 +44,6 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
  
  * 3. Complete  Watson Visual Recognition Tutorial 1: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69 - 35 mins 
 
-* 6:35 p.m. - 7:30 p.m. 
   * 4. Natural Language Understanding Tutorial 2: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf - 40 mins 
   * Extra instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
 
