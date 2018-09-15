@@ -13,9 +13,28 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 * Sign up here: bit.ly/ibm-acct
 * Get promo code here and enter "cfcVirtual0914": https://developer.ibm.com/callforcode/featurecode 
 
-## Agenda
+## Agenda Timeline Columbia Uni.
 
-* 4:30 p.m. - 5:30 p.m. 
+* 9am	Kickoff
+
+* 10:30	Design and Coding
+
+* 12:00 	Lunch 
+
+* 12:30	Design and Coding
+
+* 5:00	Dinner
+
+* 5:30	Finish Design and Coding
+
+* 6:00	Pitch Preparation
+
+* 7:00	Pitches Begin								
+	 * 3 minutes per team, 2 minutes Q&A and feedback by judges
+
+* 8:00 	Winners Announced!
+
+## Agenda of links:  
   * 1. Overview of Call for Code: https://developer.ibm.com/callforcode/ - Shari Chiara - 15 mins
   * 2. Overview of technical content available - Spencer Krum - 15 mins
   * 3. Overview of cloud technologies - Spencer Krum - 15 minutes
