@@ -8,6 +8,10 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 * Deploy a Node application with a Watson Cloud service
 * Learn more about Call for Code initiative
 
+## Sign up for IBM Cloud
+
+* Sign up here: bit.ly/ibm-acct
+* Get promo code here and enter "cfcVirtual0914": https://developer.ibm.com/callforcode/featurecode 
 
 ## Agenda
 
@@ -65,7 +69,5 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 
 ## Contact for follow up 
 
-* CAP contributions: find Chris on Twitter @cmluciano_
-* Find Helen on Twitter @HelennnSays
-* Find Spencer on Twitter @nibalizer
-* Find Shari at sharichiara@us.ibm.com 
+* helen.lam@ibm.com, @helennnsays
+* mofizur.rahman@ibm.com, @moficodes
