@@ -86,3 +86,7 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 
 * helen.lam@ibm.com, @helennnsays
 * mofizur.rahman@ibm.com, @moficodes
+
+## Internship Hiring NOW September 2018
+
+* ibm.biz/TalentExperience 
