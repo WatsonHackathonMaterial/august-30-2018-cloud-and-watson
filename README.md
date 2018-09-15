@@ -35,17 +35,13 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 * 8:00 	Winners Announced!
 
 ## Agenda of links:  
-  * 1. Overview of Call for Code: https://developer.ibm.com/callforcode/ - Shari Chiara - 15 mins
-  * 2. Overview of technical content available - Spencer Krum - 15 mins
-  * 3. Overview of cloud technologies - Spencer Krum - 15 minutes
-  * 4. Overview of CAP: https://github.com/ibm/cap - Christopher Luciano - 15 minutes
-  
-* 5:30 p.m. - 7:30 p.m. 
+ 
+* Sign up for IBM Cloud
   * 1. IBM Cloud Account set up - Sign up for IBM Cloud here: http://bluemix.net/ - 10 mins - Helen Lam, Spencer Krum
    * (i) Go here for promo code: https://developer.ibm.com/callforcode/featurecode  and USE CONFIRMATION CODE: cfcVirtual0914
    * (ii) APPLY CODE ON IBM CLOUD DASHBOARD Manage->Billing and Usage->Billing – Feature (Promo) Code entry
 
-  * 2. Overview of Watson Cloud APIs - 30 mins - Helen Lam 
+  * Overview of Watson Cloud APIs 
 * Visual Recognition
   * Video: https://www.youtube.com/watch?v=n3_oGnXkMAE
   * Demo: https://visual-recognition-demo.mybluemix.net/
