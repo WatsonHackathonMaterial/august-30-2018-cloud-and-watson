@@ -89,4 +89,4 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 
 ## Internship Hiring NOW September 2018
 
-* ibm.biz/TalentExperience 
+* [Apply for an internship](ibm.biz/TalentExperience) 
