@@ -77,6 +77,7 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 ## Code Patterns and recipes for demos 
 
 * Watson Cognitive Claims Accelerator (need to sign into IBM Cloud to see): https://developer.ibm.com/recipes/tutorials/category/cognitive-computing/
+* IBM Code: https://developer.ibm.com/
 * IBM Artificial Intelligence Code Patterns: https://developer.ibm.com/code/technologies/artificial-intelligence/
 * Watson Starter Kit: https://console.bluemix.net/developer/watson/starter-kits
 * Watson Blog Posts: https://medium.com/ibm-watson
