@@ -10,8 +10,8 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 
 ## Sign up for IBM Cloud
 
-* Sign up here: bit.ly/ibm-acct
-* Get promo code here and enter "cfcVirtual0914": https://developer.ibm.com/callforcode/featurecode 
+* Sign up here: www.bluemix.net
+* Get promo code by asking one of us
 
 ## Agenda Timeline Columbia Uni.
 
@@ -69,11 +69,6 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
   * 4. Natural Language Understanding Tutorial 2: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf - 40 mins 
   * Extra instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
 
-  
-## IBM Call for Code 2018 
-
-* https://developer.ibm.com/callforcode/
-
 ## Code Patterns and recipes for demos 
 
 * Watson Cognitive Claims Accelerator (need to sign into IBM Cloud to see): https://developer.ibm.com/recipes/tutorials/category/cognitive-computing/
@@ -87,6 +82,7 @@ Agenda and links for two Node Red Watson and IBM Cloud tutorials.
 
 * helen.lam@ibm.com, @helennnsays
 * mofizur.rahman@ibm.com, @moficodes
+* lukeschantz@us.ibm.com, @lukeschantz
 
 ## Internship Hiring NOW September 2018
 
